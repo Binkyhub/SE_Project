@@ -8,4 +8,4 @@ GroupMembers
 3.冯旻：Kansoloto（Pluto）
 4.陈岐森：
 5.陈希彦：NGzzSupud
-6.吴炳岳：
+6.吴炳岳：Binkyhub
